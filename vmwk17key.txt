@@ -1,5 +1,7 @@
 Install VMWare Workstation PRO 17 (Read it right. PRO!)
 
+This gist can get off at any time.
+PLEASE, DONT COPY THIS. IF YOU FORK IT, DONT EDIT IT.
 *If you have a problem comment and people will try to help you!
 *No virus
 *No spam just license key
