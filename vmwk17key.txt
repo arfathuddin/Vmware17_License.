@@ -1,7 +1,7 @@
 Install VMWare Workstation PRO 17 (Read it right. PRO!)
 
 Sub to me on youtube pls - PurpleVibe32
-if you want more keys - call my bot on telegram. @purector_bot - Or: https://cdn.discordapp.com/attachments/1040615179894935645/1074016373228978277/keys.zip - the password in the zip is 102me.
+if you want more keys - call my bot on telegram. @purector_bot (THE BOT WONT REPLY ANYMORE) - Or: https://cdn.discordapp.com/attachments/1040615179894935645/1074016373228978277/keys.zip - the password in the zip is 102me.
 ---
 This gist can get off at any time.
 PLEASE, DONT COPY THIS. IF YOU FORK IT, DONT EDIT IT.
@@ -25,4 +25,4 @@ Enjoy your VMs!
 
 **EDIT: HOOOLY, 20 STARS? TYSM! My first gist of github! + Changed "Pro" to "PRO" **
 
-**EDIT 2: wow.. 200+ stars.. wtf.. also, i added more keys and MORE KEYS: gist 2: ss
+**EDIT 2: wow.. 200+ stars.. wtf.. also, i added more keys and MORE KEYS: gist 2: https://gist.github.com/PurpleVibe32/1e9b30754ff18d69ad48155ed29d83de
